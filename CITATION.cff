@@ -1,15 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
-title: "cc4adapt: Carbon Credit linked Adaptation analysis pipeline (prototype)"
+title: "cc4adapt-pipeline-v0: Carbon Credit linked Adaptation analysis pipeline (April 2026 prototype, archived)"
 type: software
 authors:
   - name: "Alliance of Bioversity International and CIAT"
     city: Rome
     country: IT
+  - family-names: Ghosh
+    given-names: Ani
   - family-names: Steward
     given-names: Peter
     orcid: "https://orcid.org/0000-0003-3985-4911"
-repository-code: "https://github.com/CC4A-SSA/cc4adapt"
+repository-code: "https://github.com/CC4A-SSA/cc4adapt-pipeline-v0"
 license: MIT
 version: "0.1-prototype"
 date-released: "2026-04-20"

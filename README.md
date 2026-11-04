@@ -1,6 +1,6 @@
 # Carbon Credit linked Adaptation (CCA) — analysis pipeline
 
-> **Status: April 2026 prototype.** This repository is a reference, not the canonical CC4A method. Results it produces are exploratory. For the current work see the CC4A-SSA organisation and the tracking issues in this repository. The exploratory comparison of avoided-loss formulations lives in `code/explore/af_formulations/` and is published at https://cc4a-ssa.github.io/cc4adapt/af_formulations/.
+> **Archived, read-only.** This is the April 2026 CCA prototype pipeline, written by Ani Ghosh, with the F3 avoided-loss changes to steps 2–5 made in November 2026. It was split out of [CC4A-SSA/cc4adapt](https://github.com/CC4A-SSA/cc4adapt) on 4 November 2026 with its git history. It is a reference, not the canonical CC4A method, and results it produces are exploratory. Current work (practice register, adaptation-factor exploration, shared code) is in [CC4A-SSA/cc4adapt](https://github.com/CC4A-SSA/cc4adapt).
 
 Reproducible spatial + economic analysis of agricultural carbon-credit practices with adaptation co-benefits across **Nigeria, Kenya, and Ethiopia** at **5 arc-minute (~10 km)** resolution.
 
